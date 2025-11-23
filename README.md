@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Jagadeesh
 
-<!--
-**jagadeesh-2522/jagadeesh-2522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year CSE Core student at GCET Hyderabad  
+💻 Currently learning basic programming in C & Python  
+🚀 Exploring Git, GitHub and beginner projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills (Learning Stage)
+- C Programming (basics)
+- Python (basics)
+- Git & GitHub Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Problem Solving  
+- Writing clean code  
+- How to build small projects  
+
+## 🎯 2025-2026 Goals
+- Build 2–3 beginner projects  
+- Improve my coding logic  
+- Upload all my practice code to GitHub  
+- Become consistent with learning  
